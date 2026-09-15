@@ -218,12 +218,7 @@ db.users.insertOne({
 | 🥈 Silver Donor | ₹50+ total donated |
 | 🥇 Gold Donor | ₹100+ total donated |
 
-Points: 10 points per £1 donated
+Points: 10 points per ₹1 donated
 
 ---
 
-## 📝 License
-
-MIT
-"# microgive-project" 
-"# microgive-project" 
